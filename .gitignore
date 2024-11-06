@@ -1,0 +1,11 @@
+# Ignore folders with voice recordings
+result_combined/
+Shuffled_files/
+Shuffled_files_nine/
+Small_nine/
+Small_three/
+three_combined/
+
+# Ignore other unnecessary folders
+.vscode/
+__pycache__/
