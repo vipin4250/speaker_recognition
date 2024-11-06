@@ -1,6 +1,6 @@
 # Speaker Recognition Project
 
-This project focuses on **speaker recognition** using voice data recordings to identify and differentiate between speakers. The repository contains Python code and Jupyter Notebooks that process and analyze audio data to recognize unique speaker characteristics.
+This project focuses on **speaker recognition** using voice data recordings to identify and differentiate between speakers. The repository contains Python code and Jupyter Notebooks that process and analyze audio data to recognize unique speaker characteristics. For detailed information, refer to the [project documentation](https://github.com/vipin4250/speaker_recognition/blob/main/UI21CS65_Speaker_recognition%20(1).pdf).
 
 ## Project Structure
 
